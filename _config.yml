@@ -95,15 +95,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sean Wahl"
+  name             : # "Sean Wahl"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a planetary scientist."
-  location         : "Berkeley, CA"
+  bio              : # "I am a planetary scientist."
+  location         : # "Berkeley, CA"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:swahl.smw@gmail.com"
+#       url: "mailto:swahl.smw@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -115,7 +115,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/smwahl/"
+#        url: "https://github.com/smwahl/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
