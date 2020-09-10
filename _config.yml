@@ -95,10 +95,10 @@ analytics:
 
 # Site Author
 author:
-  name             : # "Sean Wahl"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : # "I am a planetary scientist."
-  location         : # "Berkeley, CA"
+  name             : "Sean Wahl"
+  avatar           :  "/assets/images/kvmr.jpg" #"path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I am a planetary scientist."
+  location         :  "Berkeley, CA"
   email            :
   links:
     - label: "Email"
