@@ -29,7 +29,7 @@ feature_row:
     btn_label: "Learn more"
   - image_path: /assets/images/icon4.png
     title: "Music"
-    alt: "Reels"
+    excerpt: "Reels"
     url: "https://www.thestarryplough.com/events-"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
