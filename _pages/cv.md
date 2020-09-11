@@ -42,16 +42,16 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}
 
-Talks
-======
-  {% for post in site.talks %}
-    {% unless post.talk_type == "Conference proceedings talk" %}
-      {% include archive-single-talk-cv.html %}
-    {% endunless %}
-  {% endfor %}
-
-Teaching
-======
-  {% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}
+# Talks
+# ======
+#   {% for post in site.talks %}
+#     {% unless post.talk_type == "Conference proceedings talk" %}
+#       {% include archive-single-talk-cv.html %}
+#     {% endunless %}
+#   {% endfor %}
+# 
+# Teaching
+# ======
+#   {% for post in site.teaching %}
+#     {% include archive-single-cv.html %}
+#   {% endfor %}
