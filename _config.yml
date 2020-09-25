@@ -97,8 +97,9 @@ analytics:
 # Site Author
 author:
   name             : "Sean Wahl"
-  avatar           :  "/assets/images/concertina_turtleneck.jpg" #"path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a planetary scientist."
+#   avatar           :  "/assets/images/concertina_turtleneck.jpg" #"path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           :  "/assets/images/elderberries_shirt.jpg" #"path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I am a planetary scientist, programmer and trad musician. I am also a rock collector, beer snob, and strategy game enthusiast."
   location         :  "Berkeley, CA"
   email            :
   links:
@@ -123,6 +124,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/sean-wahl-a6365996/"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.com/citations?user=aROhh70AAAAJ&hl=en"
 
 # Site Footer
 footer:

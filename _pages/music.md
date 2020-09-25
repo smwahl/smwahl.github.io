@@ -10,29 +10,26 @@ header:
 layouts_gallery:
   - url: /assets/images/kvmr.jpg
     image_path: /assets/images/kvmr.jpg
-    alt: "splash layout example"
-  - url: /assets/images/through_harp.jpg
-    image_path: /assets/images/through_harp.jpg
-    alt: "single layout with comments and related posts"
-  - url: /assets/images/wheatstone.jpg
-    image_path: /assets/images/wheatstone.jpg
-    alt: "archive layout example"
-last_modified_at: 2020-05-01T10:15:22-04:00
-toc: false
+  - url: /assets/images/giants_causeway.jpg
+    image_path: /assets/images/giants_causeway.jpg
+  - url: /assets/images/st_patricks_gig.jpg
+    image_path: /assets/images/st_patricks_gig.jpg
+  - url: /assets/images/reeds.jpg
+    image_path: /assets/images/reeds.jpg
+  - url: /assets/images/festival_sign.jpg
+    image_path: /assets/images/festival_sign.jpg
+  - url: /assets/images/doctor_concertina.jpg
+    image_path: /assets/images/doctor_concertina.jpg
+last_modified_at: 2020-09-24T10:15:22-04:00
+toc: true
 ---
 
 {% include open-embed.html %}
 
 I play traditional Irish and Scottish music on anglo concertina, low whistle and
-Irish bouzouki. Here are some samples.
+    Irish bouzouki. I am fortunate to live trad music hotbed of the Bay Area.
 
-March and hornpipe on concertina.
-
-[ The Old Cross/Bobby Casey's](/assets/audio/180821_old_cross_bobby_caseys.wav)
-
-Air and highland on low whistle.
-
-[ Thagh Mi Sgith/The Brown Sailed Boat]( /assets/audio/180821_brown_sailed_boat.wav )
+## Sample Recordings
 
 Three jigs on concertina accompanied by Laurel North on harp.
 
@@ -42,11 +39,34 @@ A waltz I wrote and recorded on Irish bouzouki, low whistle and harmonium.
 
 [ Shaped by the Stream ](/assets/audio/shaped_by_the_steam_mix.mp3?autoplay=1&loop=1&controls=0)
 
+March and hornpipe on concertina.
+
+[ The Old Cross/Bobby Casey's](/assets/audio/180821_old_cross_bobby_caseys.wav)
+
+Air and highland on low whistle.
+
+[ Thagh Mi Sgith/The Brown Sailed Boat]( /assets/audio/180821_brown_sailed_boat.wav )
+
+
+## Gigs
 
 I regularly play at sessions and for dancers with the Starry Plough Ceili Band, the
-longest running traditional Irish ceili dance west of Ireland (that I know of).
+longest running traditional Irish ceili dance west of Ireland (that I know of). I
+have played with groups at the KVMR Celtic Music Festival and the Sea Music
+Festival in San Francisco in addition to local St. Patrick's day gigs.
+
+
+![Berkeley Ceili Band]({{ site.url }}{{ site.baseurl }}/assets/images/ceili_band.jpg)
 
 <iframe width="784" height="441" src="https://www.youtube.com/embed/TBmxbfK_II8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Teaching
+
+This year I have also been a teaching assistant, helping Shay Black put on his
+regular [Folk Song Repertoire](https://www.thefreight.org/e/folk-song-repertoire-online-wshay-black-102372017460/)
+class remotely for the Freight & Salvage, a Berkely folk music institution.
+
+## Gallery
 
 {% include gallery id="layouts_gallery" caption="" %}
 
