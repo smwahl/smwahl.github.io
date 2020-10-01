@@ -98,7 +98,7 @@ analytics:
 author:
   name             : "Sean Wahl"
 #   avatar           :  "/assets/images/concertina_turtleneck.jpg" #"path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  avatar           :  "/assets/images/elderberries_shirt.jpg" #"path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           :  "/assets/images/headshot.jpg" #"elderberries_shirt.jpg" #"path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a planetary scientist, programmer and trad musician. I am also a rock collector, beer snob, and strategy game enthusiast."
   location         :  "Berkeley, CA"
   email            :
