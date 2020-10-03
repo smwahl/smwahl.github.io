@@ -16,7 +16,7 @@ toc: true
       Engineering
 
 * B.S.      Massachusetts Institute of Technology, May 2011    
-    * Physics; Earth, Atmposhperic and Planetary Sciences (Dual Major)
+    * Physics; Earth, Atmoshperic and Planetary Sciences (Dual Major)
 
 ## Work experience
 * Post-doctoral Researcher in Planetary Science, UC Berkeley (July 2017-present)
@@ -39,6 +39,7 @@ Python, C++, FORTRAN, statistical analysis, data visualization, parallel computi
 
 ## Leadership
 * Co-led a project with a multi-disciplinary team of young scientists as part of the Cooperative Institute for Dynamic Earth Research 2014 Summer Program.
+* Co-organized the weekly seminar for the Center for Integrative Planetary Science. Selected and hosting visiting speakers from around the country and maintained the CIPS website. Helped migrate the physical seminar to a remote seminar for the COVID lockdown.
 * Mentored visiting scholars from Japan and other U.S. Universities. Aided them in designing research projects with resources available through my research group at UC Berkeley.
 * Developed tutorials on scientific computing, data analysis and visualization in Python for an undergraduate class and for other researchers through the Berkeley Chapter of The Hacker Within.
 * Volunteered as part of the Bay Area Scientists in Schools developing material to help bay area middle school students understand geological processes going on beneath their feet. 
