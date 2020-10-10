@@ -18,6 +18,10 @@ toc: true
 * B.S.      Massachusetts Institute of Technology, May 2011    
     * Physics; Earth, Atmoshperic and Planetary Sciences (Dual Major)
 
+* Diploma   Troy High School, Fullerton CA, May 2007
+    * AP Honor Roll
+    
+
 ## Work experience
 * Post-doctoral Researcher in Planetary Science, UC Berkeley (July 2017-present)
 * Graduate Student Researcher in Planetary Science, UC Berkeley (2011-May 2017)
@@ -43,6 +47,16 @@ Python, C++, FORTRAN, statistical analysis, data visualization, parallel computi
 * Mentored visiting scholars from Japan and other U.S. Universities. Aided them in designing research projects with resources available through my research group at UC Berkeley.
 * Developed tutorials on scientific computing, data analysis and visualization in Python for an undergraduate class and for other researchers through the Berkeley Chapter of The Hacker Within.
 * Volunteered as part of the Bay Area Scientists in Schools developing material to help bay area middle school students understand geological processes going on beneath their feet. 
+
+
+## Awards and Honors
+
+* Berkeley Graduate Research Fellowship, EPS Department, UC Berkeley	2011
+* Christopher Goetze Prize for Undergraduate Research, MIT	2011
+* Summer Undergraduate Research Fellowship, Caltech	2008 and 2009
+* Intel Science Talent Search Finalist, 2007
+* National Science Olympiad, 2 time national chamipion (2006 & 2007)
+
 
 ## Additional
 Can read, speak and write German; Traditional Irish Musician; Mac, PC and Linux proficient; Familiar with basic Adobe Illustrator, PhotoShop and HTML.
