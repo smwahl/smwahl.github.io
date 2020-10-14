@@ -3,7 +3,7 @@ title: "EPS 100A: Minerals: Their Constitution and Origin"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University of California, Berkeley"
+venue: "University of California, Berkeley, 2014"
 date: 2014-01-01
 location: "Berkeley, California"
 ---

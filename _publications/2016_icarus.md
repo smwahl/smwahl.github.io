@@ -8,7 +8,7 @@ venueurl: https://www.sciencedirect.com/science/article/pii/S0019103516305735?ca
 excerpt:  ""
 date: 2016-01-01
 paperurl: /assets/docs/Wahl_Saturn_submitted_to_Icarus.pdf
-citation: SM Wahl, W Hubbard, B Militzer, <i>Icarus</i>, 282,183-194, 2016.
+citation: "<b>S M Wahl</b> , W Hubbard, B Militzer, <i>Icarus</i>, 282,183-194, 2016."
 ---
 
 ## Abstract

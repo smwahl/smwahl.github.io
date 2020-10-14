@@ -3,7 +3,7 @@ title: "EPS/Astron C12: The Planets"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2011-spring-teaching-1
-venue: "University of California, Berkeley"
+venue: "University of California, Berkeley, 2011"
 date: 2011-01-01
 location: "Berkeley, California"
 ---

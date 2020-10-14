@@ -3,6 +3,7 @@ title: "Modeling Planetary Interiors: From Microscopic to Global Scales"
 collection: publications
 permalink: /publications/thesis-2
 venue: "Ph.D. Thesis, Department of Earth & Planetary Science, UC Berkeley"
+venueurl: https://escholarship.org/uc/item/3df487qn
 excerpt: 'Committee: Burkhard Militzer (chair), Bruce Buffett, David Romps, Eugene Chiang'
 date: 2017-01-01
 paperurl: /assets/docs/thesis_recompile_2019_11_05.pdf

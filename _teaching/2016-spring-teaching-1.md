@@ -2,7 +2,7 @@
 title: "Mentoring Visiting Researcher"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/2011-spring-teaching-1
+permalink: /teaching/2016-spring-teaching-1
 venue: "University of California, Berkeley, 2015-2016"
 location: "Berkeley, California"
 ---

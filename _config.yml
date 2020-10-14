@@ -317,16 +317,16 @@ defaults:
       path: ""
       type: teaching
     values:
-      layout: single
+      layout: single-teach
       author_profile: true
-      share: false
-      comments: false
+      share: true
+      comments: true
   # _publications
   - scope:
       path: ""
       type: publications
     values:
-      layout: single
+      layout: single-pub
       author_profile: true
       share: true
       comments: true

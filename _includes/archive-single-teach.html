@@ -39,7 +39,10 @@
     {% endif %}
     
     {% if post.venue and post.date %}
+      <!--
       <p> <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y"}}. </p>
+      -->
+      <p> <i>{{ post.venue }}</i> </p>
     {% elsif post.venue %}
       <p> <i>{{ post.venue }}.</i> </p>
     {% endif %}

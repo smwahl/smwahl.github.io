@@ -3,7 +3,7 @@ title: "The Hacker Within"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University of California, Berkeley"
+venue: "University of California, Berkeley, 2015"
 date: 2015-01-01
 location: "Berkeley, California"
 ---
