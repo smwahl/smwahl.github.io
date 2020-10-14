@@ -15,21 +15,22 @@ excerpt: >
   Musician <br />
 feature_row:
   - image_path: /assets/images/icon1.png
-    title: "Planets"
-    excerpt: "Jupiter."
-    url: "https://eps.berkeley.edu/directory/post-docs"
+    title: "Research"
+    excerpt: "Postdoctoral research in planetary science and computational condensed
+    matter physics"
+    url: "/research"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/icon2.png
     title: "Programming"
-    excerpt: "Python"
-    url: "https://github.com/smwahl"
+    excerpt: "Scientific code development and data analysis/visualization in python"
+    url: "/programming"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/icon4.png
     title: "Music"
-    excerpt: "Reels"
-    url: "https://www.thestarryplough.com/events-"
+    excerpt: "Multi-instrument traditional Irish and Scottish musician"
+    url: "/music"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---

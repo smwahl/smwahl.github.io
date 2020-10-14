@@ -21,9 +21,9 @@ minimal_mistakes_skin    : "aqua" #, "aqua", "contrast", "dark", "dirt", "neon",
 locale                   : "en-US"
 title                    : "Sean Wahl"
 title_separator          : "|"
-subtitle                 : "Planetary Scientist" # site tagline that appears below site title in masthead
+subtitle                 : # "Planetary Scientist" # site tagline that appears below site title in masthead
 name                     : "Sean Wahl"
-description              : "Website test."
+description              : "Personal Website"
 url                      : "https://smwahl.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "smwahl/smwahl.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
