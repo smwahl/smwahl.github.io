@@ -49,6 +49,8 @@ Juno spacecraft science team.
 
 ### Interior structure of giant plants
 
+This research attempts to answer the question: what are giant Planets (i.e. Jupiter) made of, and what can they tell us about the formation the solar system? Since it is impossible to directly sample the inside of Jupiter, we must infer what the interior is like from a limited set of measurements made by orbiting spacecraft. I focus on interpreting measurements of Jupiter’s gravity made by the Juno spacecraft currently in orbit around the planet. My approach is to, first, simulate mixtures of hydrogen-helium mixtures at extreme pressures and temperatures (exceeding 10 Mbar and 10000°C) in order to determine physical properties of the planet’s primary components. Using these calculated material properties, I then construct models of Jupiter’s interior to precisely match its observed shape and gravity. Based on this work, we infer that the heavy material inside Jupiter is dissolved and distributed though much of the planet, rather than in a compact central core as previously believed.
+
 ![Dissolving Core]({{ site.url }}{{ site.baseurl }}/assets/images/dissolving_core.png)
 
 ![J4 J6 ]({{ site.url }}{{ site.baseurl }}/assets/images/jgr_J4J6_edit.png)
