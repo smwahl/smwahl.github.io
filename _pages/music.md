@@ -6,12 +6,12 @@ title: "Music"
 excerpt: "Traditiontal Irish Concertina and Whistle"
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/through_harp.jpg
+  overlay_image: "/assets/images/Ireland 2017 Second Week - 32.jpg"
 layouts_gallery:
   - url: /assets/images/kvmr.jpg
     image_path: /assets/images/kvmr.jpg
-  - url: /assets/images/giants_causeway.jpg
-    image_path: /assets/images/giants_causeway.jpg
+  - url: "/assets/images/Ireland 2017 FIrst Week - 122.jpg"
+    image_path: "/assets/images/Ireland 2017 FIrst Week - 122.jpg"
   - url: /assets/images/st_patricks_gig.jpg
     image_path: /assets/images/st_patricks_gig.jpg
   - url: /assets/images/reeds.jpg
@@ -20,6 +20,18 @@ layouts_gallery:
     image_path: /assets/images/festival_sign.jpg
   - url: /assets/images/doctor_concertina.jpg
     image_path: /assets/images/doctor_concertina.jpg
+  - url: /assets/images/through_harp.jpg
+    image_path: /assets/images/through_harp.jpg
+  - url: "/assets/images/Ireland 2017 FIrst Week - 374.jpg"
+    image_path: "/assets/images/Ireland 2017 FIrst Week - 374.jpg"
+  - url: "/assets/images/Ireland 2017 Second Week - 275.jpg"
+    image_path: "/assets/images/Ireland 2017 Second Week - 275.jpg"
+  - url: "/assets/images/Ireland 2017 Second Week - 227.jpg"
+    image_path: "/assets/images/Ireland 2017 Second Week - 227.jpg"
+  - url: "/assets/images/Ireland 2017 FIrst Week - 294.jpg"
+    image_path: "/assets/images/Ireland 2017 FIrst Week - 294.jpg"
+  - url: "/assets/images/Ireland 2017 Second Week - 15.jpg"
+    image_path: "/assets/images/Ireland 2017 Second Week - 15.jpg"
 last_modified_at: 2020-09-24T10:15:22-04:00
 toc: true
 ---

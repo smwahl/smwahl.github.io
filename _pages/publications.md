@@ -2,6 +2,9 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
+header:
+  overlay_color: "#5e616c"
+  overlay_image: "/assets/images/Ireland 2017 FIrst Week - 182.jpg"
 author_profile: true
 ---
 

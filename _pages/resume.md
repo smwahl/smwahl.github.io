@@ -4,6 +4,9 @@ permalink: /resume/
 author_profile: true
 title: "Resume"
 last_modified_at: 2020-09-24T10:15:22-04:00
+header:
+  overlay_color: "#5e616c"
+  overlay_image: "/assets/images/Ireland 2017 FIrst Week - 113.jpg"
 toc: true
 ---
 
