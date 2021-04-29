@@ -72,6 +72,10 @@ Festival in San Francisco in addition to local St. Patrick's day gigs.
 
 <iframe width="784" height="441" src="https://www.youtube.com/embed/TBmxbfK_II8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/live_stream?channel=UCMR8XRkX_HX9NdL7bRKCp-g" frameborder="0" allowfullscreen></iframe>
+
+
 ## Teaching
 
 This year I have also been a teaching assistant, helping Shay Black put on his
