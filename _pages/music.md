@@ -55,9 +55,9 @@ March and hornpipe on concertina.
 
 [ The Old Cross/Bobby Casey's](/assets/audio/180821_old_cross_bobby_caseys.wav)
 
-Air and highland on low whistle.
+Scottish Air and highland on low whistle.
 
-[ Thagh Mi Sgith/The Brown Sailed Boat]( /assets/audio/180821_brown_sailed_boat.wav )
+[ Thagh Mi Sgith/The Brown Sailed Boat](/assets/audio/180821_brown_sailed_boat.wav )
 
 
 ## Gigs
@@ -72,19 +72,20 @@ Festival in San Francisco in addition to local St. Patrick's day gigs.
 
 <iframe width="784" height="441" src="https://www.youtube.com/embed/TBmxbfK_II8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Session live-stream
+### Session live-stream
 
-<iframe width="784" height="441" src="https://www.youtube.com/embed/live_stream?channel=UCRgleS-ORnUCldz9OauFIkw" frameborder="0" allowfullscreen></iframe>
+Although our beloved Starry Plough pub was forced shut down during the pandemic,
+I have been co-organizing a monthly session over Zoom and streamed via YouTube.
+
+<iframe width="784" height="441" src="https://www.youtube.com/embed/lLy3VM5xQKs&ab" frameborder="0" allowfullscreen></iframe>
 
 
 ## Teaching
 
 This year I have also been a teaching assistant, helping Shay Black put on his
 regular [Folk Song Repertoire](https://www.thefreight.org/e/folk-song-repertoire-online-wshay-black-102372017460/)
-class remotely for the Freight & Salvage, a Berkely folk music institution.
+class remotely for the Freight & Salvage, a Berkeley folk music institution.
 
 ## Gallery
 
 {% include gallery id="layouts_gallery" caption="" %}
-
-
