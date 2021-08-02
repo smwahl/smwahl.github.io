@@ -3,7 +3,7 @@ layout: single
 permalink: /resume/
 author_profile: true
 title: "Resume"
-last_modified_at: 2020-09-24T10:15:22-04:00
+last_modified_at: 2021-08-02T10:15:22-04:00
 header:
   overlay_color: "#5e616c"
   overlay_image: "/assets/images/Ireland 2017 FIrst Week - 113.jpg"
@@ -23,14 +23,14 @@ toc: true
 
 * Diploma   Troy High School, Fullerton CA, May 2007
     * AP Honor Roll
-    
+
 
 ## Work experience
-* Post-doctoral Researcher in Planetary Science, UC Berkeley (July 2017-present)
+* Post-doctoral Researcher in Planetary Science, UC Berkeley (July 2017-April 2021)
 * Graduate Student Researcher in Planetary Science, UC Berkeley (2011-May 2017)
 * Graduate Student Instructor, UC Berkeley (Spring 2012 and Fall 2014)
 * Research Assistant (Undergraduate Research Opportunities Program), MIT (2008-2011)
- 
+
 ## Skills
 Python, C++, FORTRAN, statistical analysis, data visualization, parallel computing (openMP), object-oriented programming, machine learning (scikit-learn), technical writing, image processing, GIS, shell scripting, Git, unit-testing, GNU Make, SQL
 
@@ -38,6 +38,8 @@ Python, C++, FORTRAN, statistical analysis, data visualization, parallel computi
 * Designed algorithms for and developed a software package to calculate self-consistent gravitational fields for fluid planets in C++ and Fortran; with plans to distribute it to the community.
 * Modified and utilized code on massively parallel machines to perform novel types of first-principles quantum chemistry simulations.
 * Implemented system for storing and analyzing simulation results using Python and statistical mechanics methods.
+* Developed lectures and coursework for a unit on image processing in Python using LANDSAT satellite imagery;
+and on remote sensing using Google Mars for undergraduate classes at UC Berkeley.
 * Performed a statistical study of the relation between social media and billboard success as part of the 2015 CDIPS Data Science Workshop at UC Berkeley.
 
 ## Project Design
@@ -49,7 +51,7 @@ Python, C++, FORTRAN, statistical analysis, data visualization, parallel computi
 * Co-organized the weekly seminar for the Center for Integrative Planetary Science. Selected and hosting visiting speakers from around the country and maintained the CIPS website. Helped migrate the physical seminar to a remote seminar for the COVID lockdown.
 * Mentored visiting scholars from Japan and other U.S. Universities. Aided them in designing research projects with resources available through my research group at UC Berkeley.
 * Developed tutorials on scientific computing, data analysis and visualization in Python for an undergraduate class and for other researchers through the Berkeley Chapter of The Hacker Within.
-* Volunteered as part of the Bay Area Scientists in Schools developing material to help bay area middle school students understand geological processes going on beneath their feet. 
+* Volunteered as part of the Bay Area Scientists in Schools developing material to help bay area middle school students understand geological processes going on beneath their feet.
 
 
 ## Awards and Honors
@@ -61,11 +63,11 @@ Python, C++, FORTRAN, statistical analysis, data visualization, parallel computi
 * National Science Olympiad, 2 time national chamipion (2006 & 2007)
 
 
-## Additional
+## Additional Information
 Can read, speak and write German; Traditional Irish Musician; Mac, PC and Linux proficient; Familiar with basic Adobe Illustrator, PhotoShop and HTML.
 
 ## PDF Versions
 
-[Single-page resume](/assets/docs/resume_20_09_onepage.pdf)
+[Single-page resume](/assets/docs/resume_21_07_onepage.pdf)
 
-[Full Academic CV](/assets/docs/cv_swahl_20_09.pdf)
+[Full Academic CV](/assets/docs/cv_swahl_21_08.pdf)
