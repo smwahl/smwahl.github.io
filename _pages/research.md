@@ -65,6 +65,12 @@ This research attempts to answer the question: what are giant Planets (i.e. Jupi
 
 ![Knm]({{ site.url }}{{ site.baseurl }}/assets/images/knm_figure2.png)
 
+## Tidal response and shape of giant exoplanets
+
+![mass-radius]({{ site.url }}{{ site.baseurl }}/assets/images/mass-radius_2021_03_30.pdf)
+
+![observations]({{ site.url }}{{ site.baseurl }}/assets/images/comparison_to_observations_2021_07_15.pdf)
+
 ### Evolution of Mercury's core
 
-![Liquidus]({{ site.url }}{{ site.baseurl }}/assets/images/liquidus_model.png)
+![Liquidus]({{ site.url }}{{ site.baseurl }}/assets/images/Liquidus_model.png)
