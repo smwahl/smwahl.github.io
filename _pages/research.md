@@ -17,7 +17,7 @@ layouts_gallery:
   - url: /assets/images/wheatstone.jpg
     image_path: /assets/images/wheatstone.jpg
     alt: "archive layout example"
-last_modified_at: 2020-05-01T10:15:22-04:00
+last_modified_at: 2021-08-02T10:15:22-04:00
 toc: true
 ---
 

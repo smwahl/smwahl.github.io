@@ -7,7 +7,7 @@ venue: "University of California, Berkeley, 2011"
 date: 2011-01-01
 location: "Berkeley, California"
 ---
-#### Graduate Student Instructor 
+#### Graduate Student Instructor
 Lead discussion sessions and helped with lab
 demonstrations. Developed course material, including a lab designed to teach students
-about the geomorphology of Mars using [Google Mars](200~https://www.google.com/mars/).
+about the geomorphology of Mars using [Google Mars](https://www.google.com/mars/).
