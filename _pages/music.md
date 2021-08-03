@@ -32,7 +32,7 @@ layouts_gallery:
     image_path: "/assets/images/Ireland 2017 FIrst Week - 294.jpg"
   - url: "/assets/images/Ireland 2017 Second Week - 15.jpg"
     image_path: "/assets/images/Ireland 2017 Second Week - 15.jpg"
-last_modified_at: 2020-09-24T10:15:22-04:00
+last_modified_at: 2021-08-02T10:15:22-04:00
 toc: true
 ---
 
@@ -77,7 +77,7 @@ Festival in San Francisco in addition to local St. Patrick's day gigs.
 Although our beloved Starry Plough pub was forced shut down during the pandemic,
 I have been co-organizing a monthly session over Zoom and streamed via YouTube.
 
-<iframe width="784" height="441" src="https://www.youtube.com/embed/lLy3VM5xQKs&ab" frameborder="0" allowfullscreen></iframe>
+<iframe width="784" height="441" src="https://www.youtube.com/embed/lLy3VM5xQKs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Teaching
