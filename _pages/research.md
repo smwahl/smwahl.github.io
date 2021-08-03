@@ -38,7 +38,6 @@ Juno spacecraft science team.
 
 ### Solubility of planetary materials at high tempearature
 
-
 ![TD Integration]({{ site.url }}{{ site.baseurl }}/assets/images/TD_integration2.png)
 
 ![Exsolution]({{ site.url }}{{ site.baseurl }}/assets/images/exsolution_figure_2.png)
@@ -65,11 +64,11 @@ This research attempts to answer the question: what are giant Planets (i.e. Jupi
 
 ![Knm]({{ site.url }}{{ site.baseurl }}/assets/images/knm_figure2.png)
 
-## Tidal response and shape of giant exoplanets
+### Tidal response and shape of giant exoplanets
 
-![mass-radius]({{ site.url }}{{ site.baseurl }}/assets/images/mass-radius_2021_03_30.pdf)
+![mass-radius]({{ site.url }}{{ site.baseurl }}/assets/images/mass-radius_2021_03_30.png)
 
-![observations]({{ site.url }}{{ site.baseurl }}/assets/images/comparison_to_observations_2021_07_15.pdf)
+![observations]({{ site.url }}{{ site.baseurl }}/assets/images/comparison_to_observations_2021_07_15.png)
 
 ### Evolution of Mercury's core
 
