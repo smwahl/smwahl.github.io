@@ -2,7 +2,7 @@
 layout: single
 permalink: /programming/
 author_profile: true
-title: "Programming"
+title: "Software"
 excerpt: "Development and Data Science in Python"
 header:
   overlay_color: "#5e616c"
@@ -36,7 +36,7 @@ I co-developed on a C++ code with 2 other members of my research group a UC Berk
 over the past 4 years (with an additional student contributing for part of that
 time). This code handles high-precision calculations of the gravitational field for a
 planet with an arbitrary density profile, including the effects of rotation and
-tides. It is based on an numerical algorithm which I helped develop and improve.  
+tides. It is based on an numerical algorithm which I helped develop and improve.
 
 The code is parellized using OpenMP and optimized to run on supercomputers run by
 LBNL and NERSC.  The project has a code base exceeding 24,000 lines of code and was
@@ -78,7 +78,7 @@ through the UC Berkeley Chapter of The Hacker Within.
   Berkeley. I more frequently use the pandas python library for relational
   database-like operations (so I am familiar with a lot of the concepts but not so
   much the syntax for SQL.
- 
+
 -  I have used numerical, statistical and visualization capabilities in both R and
    MATLAB in coursework, but strongly prefer Python for almost all cases I have come
    across.
@@ -89,14 +89,14 @@ through the UC Berkeley Chapter of The Hacker Within.
 ## Side projects
 
 
-### CDIPS Workshop 
+### CDIPS Workshop
 
 As part of the as part of the CDIPS Data Science Workshop at UC Berkeley, I performed
 a statistical study of the relation between social media and billboard success along
 with a team of two other. This involved cleaning messy data sets (in this case large
 tables of billboard top hits), using social media apis (youtube and twitter) as well
 as scraping information from related websites. The goal was to see which social media
-activity was the best predictor of billboard hits. 
+activity was the best predictor of billboard hits.
 
 Find on [Github](https://github.com/trxw/CDIPS_PandoraTeam).
 
@@ -112,7 +112,7 @@ melody, or recommend tunes to a user based on previous choices.
 
 Find on [Github](https://github.com/smwahl/pytrad).
 
-### CIDER Workshop 
+### CIDER Workshop
 
 I worked with a team of 7 on a month long research project at a geophysics summer
 workshop (CIDER) at UC Santa Barbara. This involved writing a code for coupling a
@@ -120,17 +120,17 @@ simple 1D thermal evolution code and with an elemental composition model. It was
 python and was coordinated using Git.
 
 
-Find on [Github](https://github.com/trxw/https://github.com/cider-team-mercury). 
+Find on [Github](https://github.com/trxw/https://github.com/cider-team-mercury).
 
 ## Relevant Coursework
 
-### Python computing for Data Science (AY 250) 
+### Python computing for Data Science (AY 250)
 The most directly relevant Data Science coursework. An overview to a number of
 applications of python including numerical and scientific libraries, data
 visualization, parallelism, database interaction, web frameworks, machine learning,
 image processing and Bayesian programming. As a final project I migrated the data
 management system for my research to python using pandas and relational database
-concepts. 
+concepts.
 
 [Final Project on Github](https://github.com/smwahl/ay250_swahl/tree/master/final)
 
@@ -138,7 +138,7 @@ concepts.
 
 Introduction to a number of different computer languages and concepts. With regular
 exercises in numerical algorithms As a final project, I wrote a simple version of a
-quantum Monte Carlo code (A type of calculation relevant to my research). 
+quantum Monte Carlo code (A type of calculation relevant to my research).
 
 ### Other
 
