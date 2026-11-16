@@ -68,6 +68,6 @@ Can read, speak and write German; Traditional Irish Musician; Mac, PC and Linux 
 
 ## PDF Versions
 
-[Single-page resume](/assets/docs/resume_21_07_onepage.pdf)
+[Single-page resume](/assets/docs/sean_wahl_resume_26_11.pdf)
 
-[Full Academic CV](/assets/docs/cv_swahl_21_08.pdf)
+[Full Academic CV](/assets/docs/sean_wahl_cv_26_11.pdf)
